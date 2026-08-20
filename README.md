@@ -3,7 +3,7 @@
 
 # Hands-On LABs
 
-Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de manipulação e visualização de dados, como o Genie Spaces e Dashboard AI/BI.
+Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de manipulação e visualização de dados, como o Genie Code e Dashboard AI/BI.
 </br>
 </br>
 ## Ementa do Curso
@@ -11,9 +11,9 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de ma
 | # | Tópicos | Duração |
 | -- | -- | -- |
 | 01 | Introdução - Cultura de Dados e Objetivos do LAB                                   | 30 min |
-| 02 | Sobre plataforma Databricks + Dashboard AI / BI                                    | 30 min |
+| 02 | Sobre plataforma Databricks                                                        | 30 min |
 | 03 | Lab 01 - Ingestão de tabelas para uso nos laboratórios                             | 30 min |
-| 04 | Lab 02 - Entendendo os Dados com o Assistant                                       | 30 min |
+| 04 | Lab 02 - Entendendo os Dados com o Genie Code                                      | 30 min |
 | 05 | Lab 03 - Análise Exploratória (Dashboard AI/BI)                                    | 50 min |
 | 06 | Conclusões                                                                         | 20 min |
 
