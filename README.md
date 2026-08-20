@@ -25,8 +25,8 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de ma
 
 * [Dashboards AI/BI - Hot Site](https://www.databricks.com/br/product/ai-bi)
 * [Dashboards AI/BI - Documentação Oficial](https://docs.databricks.com/aws/en/ai-bi/)
-* [Assistant - Hot Site](https://www.databricks.com/product/databricks-assistant)
-* [Assistant - Documentação Oficial](https://docs.databricks.com/aws/en/notebooks/databricks-assistant-faq)
+* [Genie Code - Hot Site](https://www.databricks.com/product/databricks-assistant)
+* [Genie Code - Documentação Oficial](https://docs.databricks.com/aws/en/notebooks/databricks-assistant-faq)
 * [BLOG - Introducing AI/BI: Intelligent Analytics for Real-World Data](https://www.databricks.com/blog/introducing-aibi-intelligent-analytics-real-world-data)
 
 </br></br>
